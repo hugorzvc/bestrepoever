@@ -3,3 +3,5 @@ spring:
   show-sql: true
   hibernate:
     ddl-auto: none
+consultaFuncionario:
+ endpoint: http://localhost:8081/sap?WSDL
