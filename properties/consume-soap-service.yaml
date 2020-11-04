@@ -1,2 +1,0 @@
-consultaFuncionario:
- endpoint: http://localhost:8081/sap?WSDL
