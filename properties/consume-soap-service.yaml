@@ -1,0 +1,4 @@
+consultaFuncionario:
+    usuario: USUARIO_TMP1
+    password: Usrtmp12K
+    endpoint: http://192.168.168.103:50000/XISOAPAdapter/MessageServlet?senderParty=&senderService=BS_SAC_PRD&receiverParty=&receiverService=&interface=os_consultaFuncionario&interfaceNamespace=urn%3Acch%3Acontactcenter%3AConsultaFuncionarios%3Asac%3Ato%3Asaperp
